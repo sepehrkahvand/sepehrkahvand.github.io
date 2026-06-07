@@ -4,9 +4,7 @@ title: "Mechanical Designer Portfolio"
 author_profile: true
 ---
 
-# Sepehr Kahvand
-
-**Mechanical Designer | M.Eng. Mechanical Engineering | Certified SOLIDWORKS Associate (CSWA)**
+<p><strong>Mechanical Designer | M.Eng. Mechanical Engineering | Certified SOLIDWORKS Associate (CSWA)</strong></p>
 
 Welcome to my mechanical design portfolio.
 
