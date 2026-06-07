@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mechanical Engineering & Design Portfolio"
+title: <p style="font-size:20px;">"Mechanical Engineering & Design Portfolio"</p>
 author_profile: true
 ---
 
