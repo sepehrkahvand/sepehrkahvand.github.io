@@ -17,6 +17,7 @@ My portfolio includes practical projects such as differential gearboxes, gear dr
 
 ### Explore
 
+
 [View My Projects](/projects/)
 
 [View My Resume](/resume/)
