@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: ""
+masthead_title: "" 
 email: kahvandsepehr@gmail.com
 description: >
   Mechanical Designer | M.Eng. Mechanical Engineering |
   Certified SOLIDWORKS Associate (CSWA) | 
   Quality & Manufacturing Engineering
 url: "https://sepehrkahvand.github.io"
-twitter_username: username
+twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
 search: true
@@ -61,7 +62,7 @@ plugins:
 author:
   name   : "Sepehr Kahvand"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Mechanical Designer<br>M.Eng. Mechanical Engineering<br>Certified SOLIDWORKS Associate (CSWA)"
+  bio    : "Mechanical Designer<br>M.Eng. in Mechanical Engineering<br>Certified SOLIDWORKS Associate (CSWA)"
 
   links:
     - label: "LinkedIn"
