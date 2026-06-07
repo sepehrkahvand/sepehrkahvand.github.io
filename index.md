@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <p style="font-size:22px;">Mechanical Design Portfolio</p>
+title: <p style="font-size:26px;">Mechanical Design Portfolio</p>
 author_profile: true
 ---
 
