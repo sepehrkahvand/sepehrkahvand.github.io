@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Sepehr Kahvand"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Mechanical Designer | M.Eng. | CSWA"
+  bio    : "Mechanical Designer<br>M.Eng.<br>CSWA"
 
   links:
     - label: "LinkedIn"
