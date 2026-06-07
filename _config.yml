@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sepehr Kahvand
+title: 
 email: kahvandsepehr@gmail.com
 description: >
   Mechanical Designer | M.Eng. Mechanical Engineering |
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Sepehr Kahvand"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Mechanical Designer | M.Eng. Mechanical Engineering | Certified SOLIDWORKS Associate (CSWA) | Quality & Manufacturing Engineering"
+  bio    : "Mechanical Designer | M.Eng. | CSWA"
 
   links:
     - label: "LinkedIn"
