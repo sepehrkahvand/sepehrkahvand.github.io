@@ -1,21 +1,24 @@
 ---
 layout: single
-title: <p style="font-size:28px;">Mechanical Design Portfolio</p>
+title: Mechanical Design Portfolio
 author_profile: true
 ---
 
 <p style="font-size:20px;">
-My portfolio includes practical projects such as Differential Gearbox, gear drives, car‑jack mechanisms, sheet‑metal brackets, and welded structures—each focused on real‑world function and manufacturability. I enjoy turning engineering concepts into clear, build‑ready models and drawings that support tooling, production processes, and mechanical assembly work.
+My portfolio includes practical projects such as differential gearboxes, gear drives, car-jack mechanisms, sheet-metal brackets, and welded structures—each focused on real-world functionality and manufacturability. I enjoy turning engineering concepts into clear, build-ready models and drawings that support tooling, production processes, and mechanical assembly work.
 </p>
 
+## Areas of Expertise
 
-<p style="font-size:28px;">Portfolio Focus</p>
+- Mechanical Design & CAD Modeling
+- SOLIDWORKS Parts, Assemblies & Drawings
+- Mechatronics & Automation Systems
+- Engineering Problem Solving & Design Documentation
 
-- Mechanical design and CAD modeling
-- SOLIDWORKS parts, assemblies, and drawings
-- Mechatronics and automation systems
-- Engineering problem-solving and design documentation
+### Explore
 
-[View My Projects](/projects/)  
-[View My Resume](/resume/)  
+[View My Projects](/projects/)
+
+[View My Resume](/resume/)
+
 [Contact Me](/contact/)
