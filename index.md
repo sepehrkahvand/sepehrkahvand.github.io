@@ -14,7 +14,6 @@ My portfolio includes practical projects such as Differential Gearbox, gear driv
 - Mechanical design and CAD modeling
 - SOLIDWORKS parts, assemblies, and drawings
 - Mechatronics and automation systems
-- Manufacturing and quality engineering
 - Engineering problem-solving and design documentation
 
 [View My Projects](/projects/)  
