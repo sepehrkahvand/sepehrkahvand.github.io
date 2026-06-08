@@ -1,5 +1,5 @@
 ---
-title: "Project 4:"
+title: "Project 4 & 5:"
 permalink: /projects/sheet-metal/
 layout: single
 author_profile: true
