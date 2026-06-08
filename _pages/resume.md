@@ -9,8 +9,8 @@ author_profile: true
 
 ## Page 1
 
-![Resume Page 1](/assets/images/Resume_Page_1.jpg)
+![Resume Page 1](/assets/files/Resume_Page_1.jpg)
 
 ## Page 2
 
-![Resume Page 2](/assets/images/Resume_Page_1.jpg)
+![Resume Page 2](/assets/files/Resume_Page_1.jpg)
