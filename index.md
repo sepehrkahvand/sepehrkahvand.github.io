@@ -17,9 +17,8 @@ My portfolio showcases a range of practical mechanical design projects, includin
 
 #### Explore
 
+<span style="font-size:18px;">[View My Projects](/projects/)</span>
 
-[View My Projects](/projects/)
+<span style="font-size:18px;">[View My Resume](/resume/)</span>
 
-[View My Resume](/resume/)
-
-[Contact Me](/contact/)
+<span style="font-size:18px;">[Contact Me](/contact/)</span>
