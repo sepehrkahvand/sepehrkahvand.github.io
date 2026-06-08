@@ -14,9 +14,16 @@
 
 /* Profile photo */
 .author__avatar img {
-  max-width: 160px !important;
-  width: 160px !important;
-  border-radius: 50%;
+    width: 240px !important;
+    max-width: 240px !important;
+}
+
+.page {
+    max-width: 1400px !important;
+}
+
+.page__content {
+    max-width: 1000px !important;
 }
 
 /* Light background */
