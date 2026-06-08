@@ -20,3 +20,6 @@ Explore selected SolidWorks projects demonstrating mechanical design, assemblies
 - [Scissor Jack](/projects/solidworks/scissor-jack/)
 - [Gear Pump](/projects/solidworks/gear-pump/)
 - [Gate Valve](/projects/solidworks/gate-valve/)
+
+
+[📄 Download Sepehr Kahvand - SolidWorks Portfolio](/assets/files/Sepehr Kahvand - SolidWorks Portfolio.pdf){: .btn .btn--primary}
