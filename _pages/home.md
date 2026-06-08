@@ -1,6 +1,7 @@
 ---
+title: "Home"
+permalink: /home/
 layout: single
-title: Mechanical Design Portfolio
 author_profile: true
 ---
 
