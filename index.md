@@ -15,7 +15,7 @@ My portfolio showcases a range of practical mechanical design projects, includin
 - Mechatronics & Automation Systems
 - Engineering Problem Solving & Design Documentation
 
-# Explore
+#### Explore
 
 
 [View My Projects](/projects/)
