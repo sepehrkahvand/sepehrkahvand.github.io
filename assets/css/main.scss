@@ -4,15 +4,23 @@
 @import "minimal-mistakes";
 
 .page__footer-follow {
-  display: none;
+    display: none;
 }
 
 .page__footer-copyright {
-  display: none;
+    display: none;
 }
 
 .author__avatar img {
-    max-width: 180px !important;
-    width: 180px !important;
+    max-width: 220px !important;
+    width: 220px !important;
     border-radius: 50%;
+}
+
+body {
+    background-color: #f5f7fa;
+}
+
+.page {
+    max-width: 1500px;
 }
