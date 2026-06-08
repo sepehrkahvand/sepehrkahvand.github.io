@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Contact
-
 Feel free to contact me regarding mechanical design, CAD modeling, manufacturing engineering, quality engineering, or career opportunities.
 
 <p>
