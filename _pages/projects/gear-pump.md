@@ -1,5 +1,5 @@
 ---
-title: "Project 6:"
+title: "Project 7:"
 permalink: /projects/gear-pump/
 layout: single
 author_profile: true
