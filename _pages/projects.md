@@ -9,6 +9,8 @@ author_profile: true
 
 Explore selected SolidWorks projects demonstrating mechanical design, assemblies, sheet metal, weldments, motion studies, and manufacturability.
 
+[📄 Download SolidWorks Portfolio](/assets/files/Sepehr Kahvand - SolidWorks Portfolio.pdf){: .btn .btn--primary}
+
 ## Projects
 
 - [Helicopter Rotorcraft Assembly Design](/projects/solidworks/helicopter/)
