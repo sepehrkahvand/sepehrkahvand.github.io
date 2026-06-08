@@ -18,7 +18,7 @@ My portfolio showcases a range of practical mechanical design projects, includin
 #### Explore
 
 <p>
-<a href="/projects/" class="btn btn--primary">Projects</a>
-<a href="/resume/" class="btn btn--primary">Resume</a>
-<a href="/contact/" class="btn btn--primary">Contact</a>
+<a href="/projects/">View My Projects</a><br>
+<a href="/resume/">View My Resume</a><br>
+<a href="/contact/">Contact Me</a>
 </p>
