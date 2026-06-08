@@ -3,47 +3,36 @@
 
 @import "minimal-mistakes";
 
+/* Hide footer */
 .page__footer-follow {
-    display: none;
+  display: none;
 }
 
 .page__footer-copyright {
-    display: none;
+  display: none;
 }
 
+/* Profile photo */
 .author__avatar img {
-    max-width: 220px !important;
-    width: 220px !important;
-    border-radius: 50%;
+  max-width: 180px !important;
+  width: 180px !important;
+  border-radius: 50%;
 }
 
-body {
-    background-color: #f5f7fa;
+/* Light background */
+html,
+body,
+.initial-content,
+.page,
+.page__inner-wrap {
+  background-color: #f5f7fa !important;
 }
 
-.page {
-    max-width: 1500px;
-}
-
-.page__content ul li {
-    font-size: 0.9rem;
+/* Text sizing */
+.page__content li {
+  font-size: 0.9rem !important;
 }
 
 .page__content a {
-    font-size: 0.9rem;
-}
-
-
-/* Make the portfolio content area wider */
-.page {
-  width: 100% !important;
-  max-width: 1200px !important;
-}
-
-.page__inner-wrap {
-  max-width: 900px !important;
-}
-
-.page__content {
-  max-width: 900px !important;
+  font-size: 0.9rem !important;
 }
