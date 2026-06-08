@@ -13,4 +13,4 @@ author_profile: true
 
 ## Page 2
 
-![Resume Page 2](/assets/files/Resume_Page_1.jpg)
+![Resume Page 2](/assets/files/Resume_Page_2.jpg)
