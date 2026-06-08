@@ -18,7 +18,7 @@ Throughout my career, I have contributed to mechanical design projects, tooling 
 Issued by Dassault Systèmes
 
 <iframe
-src="/assets/files/Certificate C-CDQSYNGJ2T.pdf"
+src="/assets/files/Certificate C-CDQSYNGJ2T.jpg"
 width="100%"
 height="800px"
 style="border:none;">
