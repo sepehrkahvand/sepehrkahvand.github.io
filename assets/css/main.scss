@@ -32,3 +32,18 @@ body {
 .page__content a {
     font-size: 0.9rem;
 }
+
+
+/* Make the portfolio content area wider */
+.page {
+  width: 100% !important;
+  max-width: 1200px !important;
+}
+
+.page__inner-wrap {
+  max-width: 900px !important;
+}
+
+.page__content {
+  max-width: 900px !important;
+}
