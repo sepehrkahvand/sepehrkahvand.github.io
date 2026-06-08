@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 
-# Resume
-
-Download my latest resume below.
-
-[Download Resume](/assets/files/Sepehr_Kahvand Resume.pdf){: .btn .btn--primary}
+<iframe
+src="/assets/files/Sepehr_Kahvand_Resume.pdf"
+width="100%"
+height="1000px">
+</iframe>
