@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <p style="font-size:20px;">
-My portfolio includes practical projects such as differential gearboxes, gear drives, car-jack mechanisms, sheet-metal brackets, and welded structures—each focused on real-world functionality and manufacturability. I enjoy turning engineering concepts into clear, build-ready models and drawings that support tooling, production processes, and mechanical assembly work.
+My portfolio showcases a range of practical mechanical design projects, including a radio-controlled helicopter, differential gearbox, car-jack mechanisms, sheet-metal kitchen sink, power supply frame, gate valve, and welded structures. Each project emphasizes real-world functionality, manufacturability, and engineering best practices. I enjoy transforming engineering concepts into accurate, production-ready CAD models and detailed drawings that support design validation, manufacturing, tooling, and mechanical assembly.
 </p>
 
 ## Areas of Expertise
