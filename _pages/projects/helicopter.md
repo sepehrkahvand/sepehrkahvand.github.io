@@ -1,11 +1,11 @@
 ---
-title: "Helicopter Rotorcraft Assembly Design"
+title: "Project 1:"
 permalink: /projects/helicopter/
 layout: single
 author_profile: true
 ---
 
-# Project 1: Helicopter Rotorcraft Assembly Design
+# Helicopter Rotorcraft Assembly Design
 
 - **Tools:** SolidWorks part modeling, surface modeling, assemblies, mates, motion study, drafting
 
