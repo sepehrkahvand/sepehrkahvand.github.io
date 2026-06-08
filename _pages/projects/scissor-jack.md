@@ -1,5 +1,5 @@
 ---
-title: "Project 5:"
+title: "Project 6:"
 permalink: /projects/scissor-jack/
 layout: single
 author_profile: true
