@@ -12,13 +12,13 @@ Explore selected SolidWorks projects demonstrating mechanical design, assemblies
 
 ## Projects
 
-- [Helicopter Rotorcraft Assembly Design](/projects/solidworks/helicopter/)
-- [Differential Gearbox](/projects/solidworks/differential-gearbox/)
-- [Tubular Chair](/projects/solidworks/tubular-chair/)
-- [Power Supply Frame and Kitchen Sink](/projects/solidworks/sheet-metal/)
-- [Scissor Jack](/projects/solidworks/scissor-jack/)
-- [Gear Pump](/projects/solidworks/gear-pump/)
-- [Gate Valve](/projects/solidworks/gate-valve/)
+- [Helicopter Rotorcraft Assembly Design](/projects/helicopter/)
+- [Differential Gearbox](/projects/differential-gearbox/)
+- [Tubular Chair](/projects/tubular-chair/)
+- [Power Supply Frame and Kitchen Sink](/projects/sheet-metal/)
+- [Scissor Jack](/projects/scissor-jack/)
+- [Gear Pump](/projects/gear-pump/)
+- [Gate Valve](/projects/gate-valve/)
 
 
 [📄 Download Sepehr Kahvand - SolidWorks Portfolio](/assets/files/Sepehr Kahvand - SolidWorks Portfolio.pdf){: .btn .btn--primary}
