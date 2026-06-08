@@ -14,6 +14,7 @@ author_profile: true
 <img src="/assets/images/projects/differential-gearbox1.jpg"
      style="width:100%; max-width:750px; display:block; margin:20px auto;">
 
-<img src="/assets/images/projects/differential-gearbox2.jpg" class="project-image">
+<img src="/assets/images/projects/differential-gearbox2.jpg"
+     style="width:100%; max-width:800px; display:block; margin:20px auto;">
 
 [← Back to Projects](/projects/)
