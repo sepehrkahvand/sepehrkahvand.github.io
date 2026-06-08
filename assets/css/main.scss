@@ -3,10 +3,7 @@
 
 @import "minimal-mistakes";
 
-/* ==========================================
-   Hide footer
-   ========================================== */
-
+/* Hide footer */
 .page__footer-follow {
   display: none;
 }
@@ -15,109 +12,35 @@
   display: none;
 }
 
-/* ==========================================
-   Background color
-   ========================================== */
-
+/* Light background */
 html,
 body,
-.initial-content,
-.page,
-.page__inner-wrap {
+.initial-content {
   background-color: #f5f7fa !important;
 }
 
-/* ==========================================
-   Profile photo
-   ========================================== */
-
-.author__avatar {
-  width: 180px !important;
-}
-
+/* Profile photo */
 .author__avatar img {
   width: 180px !important;
   max-width: 180px !important;
   border-radius: 50%;
 }
 
-/* ==========================================
-   Sidebar text
-   ========================================== */
-
-.author__name {
-  font-size: 2rem !important;
-  font-weight: 700;
-}
-
-.author__bio {
-  font-size: 1rem !important;
-}
-
-/* Make LinkedIn and Email bold */
-
+/* Bold LinkedIn and Email */
 .author__urls a {
   font-weight: 700 !important;
 }
 
-/* ==========================================
-   Main layout
-   ========================================== */
-
-@media (min-width: 1024px) {
-
-  /* Sidebar width */
-  .sidebar {
-    width: 300px !important;
-  }
-
-  /* Main content position */
-  .page {
-    padding-left: 340px !important;
-  }
-
-  /* Content width */
-  .page__inner-wrap {
-    max-width: 1000px !important;
-  }
-
-  .page__content {
-    max-width: 1000px !important;
-  }
-}
-
-/* ==========================================
-   Text sizing
-   ========================================== */
-
+/* Text sizing */
 .page__content p {
-  font-size: 1.15rem !important;
-  line-height: 1.8;
-}
-
-.page__content li {
   font-size: 1rem !important;
   line-height: 1.7;
 }
 
+.page__content li {
+  font-size: 0.9rem !important;
+  line-height: 1.6;
+}
+
 .page__content a {
-  font-size: 1rem !important;
-}
-
-/* ==========================================
-   Section headings
-   ========================================== */
-
-.page__content h1 {
-  font-size: 3rem !important;
-}
-
-.page__content h2 {
-  font-size: 2rem !important;
-  font-weight: 700;
-}
-
-.page__content h3 {
-  font-size: 1.8rem !important;
-  font-weight: 700;
-}
+  font-size: 0.9rem !important;
