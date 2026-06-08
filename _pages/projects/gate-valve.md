@@ -1,5 +1,5 @@
 ---
-title: "Project 7:"
+title: "Project 8:"
 permalink: /projects/gate-valve/
 layout: single
 author_profile: true
