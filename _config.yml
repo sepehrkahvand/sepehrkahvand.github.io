@@ -64,11 +64,11 @@ author:
   bio    : <p style="font-size:14px;">Mechanical Designer<br>M.Eng. in Mechanical Engineering<br>Certified SOLIDWORKS Associate (CSWA)</p>
 
   links:
-    - label: "LinkedIn"
+    - label: "<strong>LinkedIn</strong>"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sepehrkahvand"
 
-    - label: "Email"
+    - label: "<strong>Email</strong>"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kahvandsepehr@gmail.com"
 
